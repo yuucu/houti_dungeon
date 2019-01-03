@@ -1,0 +1,4823 @@
+fileFormatVersion: 2
+guid: 2361bbc7707334a2db5e71d80009116e
+timeCreated: 1474245809
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 0
+    21300002: 1
+    21300004: 2
+    21300006: 3
+    21300008: 4
+    21300010: 5
+    21300012: 6
+    21300014: 7
+    21300016: 8
+    21300018: 9
+    21300020: A
+    21300022: B
+    21300024: C
+    21300026: D
+    21300028: E
+    21300030: F
+    21300032: G
+    21300034: H
+    21300036: I
+    21300038: J
+    21300040: K
+    21300042: L
+    21300044: M
+    21300046: N
+    21300048: O
+    21300050: P
+    21300052: Q
+    21300054: R
+    21300056: S
+    21300058: T
+    21300060: U
+    21300062: V
+    21300064: W
+    21300066: X
+    21300068: Y
+    21300070: Z
+    21300072: a
+    21300074: b
+    21300076: c
+    21300078: d
+    21300080: e
+    21300082: f
+    21300084: g
+    21300086: h
+    21300088: i
+    21300090: j
+    21300092: k
+    21300094: l
+    21300096: m
+    21300098: n
+    21300100: o
+    21300102: p
+    21300104: q
+    21300106: r
+    21300108: s
+    21300110: t
+    21300112: u
+    21300114: v
+    21300116: w
+    21300118: x
+    21300120: y
+    21300122: z
+    21300124: asterisk
+    21300126: mul
+    21300128: '&'
+    21300130: single_quot
+    21300132: (
+    21300134: )
+    21300136: multiply
+    21300138: heart
+    21300140: star
+    21300142: ~
+    21300144: period
+    21300146: ','
+    21300148: '!'
+    21300150: '?'
+    21300152: '"'
+    21300154: single_quot
+    21300156: ':'
+    21300158: ;
+    21300160: =
+    21300162: '-'
+    21300164: +
+    21300166: '#'
+    21300168: slash
+    21300170: percent
+    21300172: "\u30A2"
+    21300174: "\u30A4"
+    21300176: "\u30A6"
+    21300178: "\u30A8"
+    21300180: "\u30AA"
+    21300182: "\u30AB"
+    21300184: "\u30AD"
+    21300186: "\u30AF"
+    21300188: "\u30B1"
+    21300190: "\u30B3"
+    21300192: "\u30B5"
+    21300194: "\u30B7"
+    21300196: "\u30B9"
+    21300198: "\u30BB"
+    21300200: "\u30BD"
+    21300202: "\u30BF"
+    21300204: "\u30C1"
+    21300206: "\u30C4"
+    21300208: "\u30C6"
+    21300210: "\u30C8"
+    21300212: "\u30CA"
+    21300214: "\u30CB"
+    21300216: "\u30CC"
+    21300218: "\u30CD"
+    21300220: "\u30CE"
+    21300222: "\u30CF"
+    21300224: "\u30D2"
+    21300226: "\u30D5"
+    21300228: "\u30D8"
+    21300230: "\u30DB"
+    21300232: "\u30DE"
+    21300234: "\u30DF"
+    21300236: "\u30E0"
+    21300238: "\u30E1"
+    21300240: "\u30E2"
+    21300242: "\u30E4"
+    21300244: "\u30E6"
+    21300246: "\u30E8"
+    21300248: "\u30E9"
+    21300250: "\u30EA"
+    21300252: "\u30EB"
+    21300254: "\u30EC"
+    21300256: "\u30ED"
+    21300258: "\u30EF"
+    21300260: "\u30F2"
+    21300262: "\u30F3"
+    21300264: "\u30A1"
+    21300266: "\u30A3"
+    21300268: "\u30A5"
+    21300270: "\u30A7"
+    21300272: "\u30A9"
+    21300274: "\u30E3"
+    21300276: "\u30E5"
+    21300278: "\u30E7"
+    21300280: "\u30C3"
+    21300282: "\u30FC"
+    21300284: "\u3001"
+    21300286: "\u3002"
+    21300288: "\u300C"
+    21300290: "\u300D"
+    21300292: "\u2026"
+    21300294: "\u309B"
+    21300296: "\u309C"
+    21300298: melody
+    21300300: ''''
+    21300302: space
+    21300304: "\xA6"
+    21300306: \
+    21300308: '@'
+    21300310: ^
+    21300312: <
+    21300314: '>'
+    21300316: "\u3042"
+    21300318: "\u3044"
+    21300320: "\u3046"
+    21300322: "\u3048"
+    21300324: "\u304A"
+    21300326: "\u304B"
+    21300328: "\u304D"
+    21300330: "\u304F"
+    21300332: "\u3051"
+    21300334: "\u3053"
+    21300336: "\u3055"
+    21300338: "\u3057"
+    21300340: "\u3059"
+    21300342: "\u305B"
+    21300344: "\u305D"
+    21300346: "\u305F"
+    21300348: "\u3061"
+    21300350: "\u3064"
+    21300352: "\u3066"
+    21300354: "\u3068"
+    21300356: "\u306A"
+    21300358: "\u306B"
+    21300360: "\u306C"
+    21300362: "\u306D"
+    21300364: "\u306E"
+    21300366: "\u306F"
+    21300368: "\u3072"
+    21300370: "\u3075"
+    21300372: "\u3078"
+    21300374: "\u307B"
+    21300376: "\u307E"
+    21300378: "\u307F"
+    21300380: "\u3080"
+    21300382: "\u3081"
+    21300384: "\u3082"
+    21300386: "\u3084"
+    21300388: "\u3086"
+    21300390: "\u3088"
+    21300392: "\u3089"
+    21300394: "\u308A"
+    21300396: "\u308B"
+    21300398: "\u308C"
+    21300400: "\u308D"
+    21300402: "\u308F"
+    21300404: "\u3092"
+    21300406: "\u3093"
+    21300408: "\u3041"
+    21300410: "\u3043"
+    21300412: "\u3045"
+    21300414: "\u3047"
+    21300416: "\u3049"
+    21300418: "\u3083"
+    21300420: "\u3085"
+    21300422: "\u3087"
+    21300424: "\u3063"
+    21300426: _
+    21300428: '['
+    21300430: ']'
+    21300432: '{'
+    21300434: '}'
+    21300436: "\xAF"
+    21300438: "\xBF"
+    21300440: "\xA1"
+    21300442: "\xA7"
+    21300444: "\xC0"
+    21300446: "\xC1"
+    21300448: "\xC2"
+    21300450: "\xC3"
+    21300452: "\xC4"
+    21300454: "\xC5"
+    21300456: "\xC7"
+    21300458: "\xC8"
+    21300460: "\xC9"
+    21300462: "\xCA"
+    21300464: "\xCB"
+    21300466: "\xCD"
+    21300468: "\xCC"
+    21300470: "\xCE"
+    21300472: "\xCF"
+    21300474: "\xD1"
+    21300476: "\xD2"
+    21300478: "\xD3"
+    21300480: "\xD4"
+    21300482: "\xD5"
+    21300484: "\xD6"
+    21300486: "\xD9"
+    21300488: "\xDA"
+    21300490: "\xDB"
+    21300492: "\xDC"
+    21300494: "\xDD"
+    21300496: "\xE8"
+    21300498: D-
+    21300500: "\xD8"
+    21300502: P-
+    21300504: "\xDF"
+    21300506: "\u20AC"
+    21300508: "\xA5"
+    21300510: "\u2030"
+    21300512: "\u2122"
+    21300514: "\u2020"
+    21300516: "\u2021"
+    21300518: "\u0152"
+    21300520: "\u0153"
+    21300522: "\xA9"
+    21300524: (R)
+    21300526: "\xB1"
+    21300528: -2
+    21300530: -3
+    21300532: "\xB5"
+    21300534: "\xB6"
+    21300536: "\xB7"
+    21300538: "\xB0"
+    21300540: -1
+    21300542: "\xB8"
+    21300544: -0
+    21300546: "\xAB"
+    21300548: "\xBB"
+    21300550: -|
+    21300552: "\xAA"
+    21300554: 1_4
+    21300556: "\xBD"
+    21300558: "\xBE"
+    21300560: "\xF7"
+    21300562: "\xC6"
+    21300564: "\xF8"
+    21300566: "\xFE"
+    21300568: "\xA2"
+    21300570: "\xA3"
+    21300572: "\xE0"
+    21300574: "\xE1"
+    21300576: "\xE2"
+    21300578: "\xE3"
+    21300580: "\xE4"
+    21300582: "\xE5"
+    21300584: "\xE7"
+    21300586: "\xF2"
+    21300588: "\xF3"
+    21300590: "\xF4"
+    21300592: "\xF5"
+    21300594: "\xF6"
+    21300596: "\u0160"
+    21300598: "\xE9"
+    21300600: "\xEA"
+    21300602: "\xEB"
+    21300604: "\xEC"
+    21300606: "\xED"
+    21300608: "\xEE"
+    21300610: "\xEF"
+    21300612: "\xF1"
+    21300614: "\xF9"
+    21300616: "\xFA"
+    21300618: "\xFB"
+    21300620: "\xFC"
+    21300622: "\xFD"
+    21300624: "\u017D"
+    21300626: "\u0161"
+    21300628: "\u017E"
+    21300630: "\u0178"
+    21300632: "\xE6"
+    21300634: "\xF0"
+    21300636: "\xFF"
+    21300638: "\u30AC"
+    21300640: "\u30AE"
+    21300642: "\u30B0"
+    21300644: "\u30B2"
+    21300646: "\u30B4"
+    21300648: "\u30B6"
+    21300650: "\u30B8"
+    21300652: "\u30BA"
+    21300654: "\u30BC"
+    21300656: "\u30BE"
+    21300658: "\u30C0"
+    21300660: "\u30C2"
+    21300662: "\u30C5"
+    21300664: "\u30C7"
+    21300666: "\u30C9"
+    21300668: "\u30D0"
+    21300670: "\u30D3"
+    21300672: "\u30D6"
+    21300674: "\u30D9"
+    21300676: "\u30DC"
+    21300678: "\u30D1"
+    21300680: "\u30D4"
+    21300682: "\u30D7"
+    21300684: "\u30DA"
+    21300686: "\u30F4"
+    21300688: "\u304C"
+    21300690: "\u304E"
+    21300692: "\u3050"
+    21300694: "\u3052"
+    21300696: "\u3054"
+    21300698: "\u3056"
+    21300700: "\u3058"
+    21300702: "\u305A"
+    21300704: "\u305C"
+    21300706: "\u305E"
+    21300708: "\u3060"
+    21300710: "\u3062"
+    21300712: "\u3065"
+    21300714: "\u3067"
+    21300716: "\u3069"
+    21300718: "\u3070"
+    21300720: "\u3073"
+    21300722: "\u3076"
+    21300724: "\u3079"
+    21300726: "\u307C"
+    21300728: "\u3071"
+    21300730: "\u3074"
+    21300732: "\u3077"
+    21300734: "\u307A"
+    21300736: "\u307D"
+    21300738: "\u30DD"
+    21300740: "\u30F1"
+    21300742: "\u30F0"
+    21300744: "\u30F5"
+    21300746: "\u30F6"
+    21300748: "\u30EE"
+    21300750: "\u3090"
+    21300752: "\u3091"
+    21300754: "\u308E"
+    21300756: "\xB4"
+    21300758: "\xA8"
+    21300760: '...'
+    21300762: "\u2022"
+    21300764: "\u2013"
+    21300766: "\u2014"
+    21300768: "\u02DC"
+    21300770: "\u2018"
+    21300772: "\u2019"
+    21300774: "\u201A"
+    21300776: upquart2
+    21300778: "\u201D"
+    21300780: "\u201E"
+    21300782: <2
+    21300784: "\u203A"
+    21300786: "\u02C6"
+    21300788: "\u0192"
+    21300790: "\xA4"
+    21300792: $
+    21300794: '`'
+    21300796: '|'
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 1
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 2
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: A
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: B
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: C
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: D
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: E
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: F
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: G
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: H
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: I
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 110
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: J
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: K
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: L
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 110
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: M
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 110
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: N
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 110
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: O
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: P
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Q
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: R
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: S
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: T
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: U
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: V
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: W
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Y
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Z
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: b
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: c
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: d
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: e
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: f
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: g
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: h
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: i
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 92
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: j
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 92
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: k
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: l
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 92
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: m
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 92
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: n
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: o
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: p
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: q
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: r
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: s
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: t
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: u
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: v
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: w
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: x
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: y
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: z
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: asterisk
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: multiply
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '&'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 74
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: single_quot
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: (
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: )
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heart
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: star
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ~
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 74
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: period
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ','
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '!'
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '?'
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '"'
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 65
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ''''
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ':'
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 65
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ;
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: =
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '-'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: +
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '#'
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 65
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: slash
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 65
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: percent
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 65
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A4"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 56
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A6"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A8"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30AA"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30AB"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30AD"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30AF"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B1"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B5"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B7"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B9"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30BB"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30BD"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30BF"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C1"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C4"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C8"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30CA"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30CB"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30CC"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30CD"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30CE"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30CF"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D2"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D8"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30DB"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30DE"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30DF"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E0"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E1"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E2"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E4"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E8"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E9"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30EA"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30EB"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30EC"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30ED"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30EF"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30F2"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30F3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A1"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A3"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A5"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A7"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 11
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30A9"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E3"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E5"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30E7"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C3"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30FC"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3001"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3002"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u300C"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u300D"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2026"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u309B"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u309C"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: melody
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: space
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 11
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA6"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 65
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: \
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 65
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '@'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ^
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: <
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '>'
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3042"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 56
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3044"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 56
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3046"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3048"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u304A"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u304B"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 56
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u304D"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 56
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u304F"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3051"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3053"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3055"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 47
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3057"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3059"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u305B"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u305D"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u305F"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3061"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 47
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3064"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 47
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3066"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3068"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u306A"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u306B"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u306C"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u306D"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u306E"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u306F"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3072"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3075"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3078"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u307B"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u307E"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u307F"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3080"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3081"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3082"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3084"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3086"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3088"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3089"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u308A"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u308B"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u308C"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u308D"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u308F"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3092"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3093"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3041"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3043"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3045"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 11
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3047"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3049"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3083"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3085"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3087"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3063"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: _
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '['
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 65
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ']'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '{'
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '}'
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xAF"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xBF"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA1"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 65
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA7"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 65
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC0"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC1"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC2"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC3"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC4"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC5"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC7"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 117
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC8"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC9"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xCA"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xCB"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xCD"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 115
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xCC"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 115
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xCE"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 115
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xCF"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD1"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 102
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD2"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD3"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD4"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD5"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD6"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD9"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xDA"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xDB"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xDC"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xDD"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 102
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE8"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 103
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: D-
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 92
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xD8"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: P-
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xDF"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u20AC"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA5"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 92
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2030"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2122"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 92
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2020"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 92
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2021"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 92
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u0152"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u0153"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA9"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: (R)
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xB1"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: -2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: -3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xB5"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 74
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xB6"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 74
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xB7"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xB0"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: -1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 74
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xB8"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 74
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: -0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 74
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xAB"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 74
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xBB"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 74
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: -|
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 74
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xAA"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 1_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xBD"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xBE"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF7"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 83
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xC6"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF8"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xFE"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 83
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA2"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA3"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 92
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE0"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE1"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE2"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE3"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE4"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE5"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE7"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 117
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF2"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF3"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF4"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF5"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF6"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 115
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u0160"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 91
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE9"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xEA"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xEB"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xEC"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 104
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xED"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 104
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xEE"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 104
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xEF"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF1"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF9"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xFA"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xFB"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xFC"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xFD"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 104
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u017D"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 92
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u0161"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 92
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u017E"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 92
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u0178"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 92
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xE6"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 92
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xF0"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 92
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xFF"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 15
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30AC"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30AE"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B0"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B2"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B4"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B6"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30B8"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30BA"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30BC"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 70
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30BE"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C0"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C2"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C5"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C7"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30C9"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D0"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 70
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D3"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D6"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D9"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30DC"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D1"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 59
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D4"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30D7"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 59
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30DA"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 59
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30F4"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u304C"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 48
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u304E"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 48
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3050"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3052"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3054"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3056"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 48
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3058"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 48
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u305A"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u305C"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u305E"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3060"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3062"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 37
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3065"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 37
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3067"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3069"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 37
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3070"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3073"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3076"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3079"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u307C"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3071"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3074"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3077"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u307A"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u307D"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30DD"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30F1"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30F0"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30F5"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30F6"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u30EE"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3090"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u3091"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u308E"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xB4"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA8"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '...'
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2022"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2013"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2014"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u02DC"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2018"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u2019"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u201A"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: upquart2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u201D"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u201E"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: <2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u203A"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u02C6"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\u0192"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: "\xA4"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: $
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '`'
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: '|'
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 74
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

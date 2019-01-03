@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cca94f3279b00047b48c969869c7bdd, type: 3}
+  m_Name: enemyData
+  m_EditorClassIdentifier: 
+  enemyList:
+  - str: 9999
+    def: 9999
+    maxHp: 9999
+    attackSpd: 1
+    enemyID: 0
+    enemySprite: {fileID: 21300000, guid: 6def539a82b2abc48a4587514f7445b1, type: 3}
+    name: Null
+    exp: 9999
+    coinRange: 10000
+    dropItemID: 
+  - str: 3
+    def: 6
+    maxHp: 10
+    attackSpd: 1
+    enemyID: 1
+    enemySprite: {fileID: 21300000, guid: 46f70ddda93807a4780624c7bb1bc9e7, type: 3}
+    name: "\u30EA\u30D3\u30F3\u30B0\u30BC\u30EA\u30FC"
+    exp: 2
+    coinRange: 2
+    dropItemID: 
+  - str: 4
+    def: 7
+    maxHp: 18
+    attackSpd: 1
+    enemyID: 2
+    enemySprite: {fileID: 21300000, guid: 1adc2fda20220ef468227f823545c8f3, type: 3}
+    name: "\u30DE\u30C3\u30C9\u30B9\u30E9\u30A4\u30E0"
+    exp: 3
+    coinRange: 2
+    dropItemID: 01000000
+  - str: 4
+    def: 10
+    maxHp: 35
+    attackSpd: 1
+    enemyID: 3
+    enemySprite: {fileID: 21300000, guid: b23ffcb4267cddd478bf60a0171eb877, type: 3}
+    name: "\u3080\u306B\u3080\u306B"
+    exp: 3
+    coinRange: 3
+    dropItemID: 
+  - str: 5
+    def: 7
+    maxHp: 30
+    attackSpd: 2
+    enemyID: 4
+    enemySprite: {fileID: 21300000, guid: f0b07755e892d0c449fae12dab76ec69, type: 3}
+    name: "\u306C\u3044\u3050\u308B\u307F"
+    exp: 5
+    coinRange: 3
+    dropItemID: 01000000
+  - str: 7
+    def: 12
+    maxHp: 70
+    attackSpd: 2
+    enemyID: 7
+    enemySprite: {fileID: 21300000, guid: de39afa9c17a337498738e652d05c306, type: 3}
+    name: "\u72C2\u66B4\u5316\u30DE\u30C3\u30C9"
+    exp: 10
+    coinRange: 60
+    dropItemID: 65000000c900000001000000
+  - str: 8
+    def: 15
+    maxHp: 110
+    attackSpd: 1
+    enemyID: 8
+    enemySprite: {fileID: 21300000, guid: 6788c9cfd0604c84abfd1a70418b251d, type: 3}
+    name: "\u30AD\u30F3\u30B0\u3080\u306B\u3080\u306B"
+    exp: 20
+    coinRange: 120
+    dropItemID: 6600000001000000c9000000c9000000
+  - str: 8
+    def: 20
+    maxHp: 150
+    attackSpd: 1
+    enemyID: 9
+    enemySprite: {fileID: 21300000, guid: 99fa8ac0f2ac50c41b479df71823938b, type: 3}
+    name: "\u30A2\u30CD\u30B4\u30AA\u30AA\u30CD\u30BA\u30DF"
+    exp: 40
+    coinRange: 200
+    dropItemID: 6700000001000000c9000000c9000000c9000000
+  - str: 6
+    def: 9
+    maxHp: 41
+    attackSpd: 1
+    enemyID: 5
+    enemySprite: {fileID: 21300000, guid: c578555b63c1bd8438398b620b21bb96, type: 3}
+    name: "\u30B3\u30D6\u30F3\u30AA\u30AA\u30CD\u30BA\u30DF"
+    exp: 5
+    coinRange: 4
+    dropItemID: 
+  - str: 7
+    def: 6
+    maxHp: 46
+    attackSpd: 2
+    enemyID: 6
+    enemySprite: {fileID: 21300000, guid: b5a718f76a44aa34ba5445869ceef81d, type: 3}
+    name: "\u30B2\u30C9"
+    exp: 5
+    coinRange: 3
+    dropItemID: 01000000
+  - str: 8
+    def: 11
+    maxHp: 81
+    attackSpd: 1
+    enemyID: 10
+    enemySprite: {fileID: 21300000, guid: 8b5225b322003404797881ac3b3c2122, type: 3}
+    name: "\u30B9\u30E9"
+    exp: 5
+    coinRange: 5
+    dropItemID: 01000000
+  - str: 6
+    def: 12
+    maxHp: 91
+    attackSpd: 1
+    enemyID: 11
+    enemySprite: {fileID: 21300000, guid: 130115a9c9e92a4429290328cf9f8488, type: 3}
+    name: "\u30B9\u30E9\u30B9\u30E9"
+    exp: 6
+    coinRange: 6
+    dropItemID: 
+  - str: 6
+    def: 12
+    maxHp: 110
+    attackSpd: 1
+    enemyID: 12
+    enemySprite: {fileID: 21300000, guid: a7ab878da9e5c5248b84adb4e43c57f8, type: 3}
+    name: "\u30CF\u30C1\u30CE\u30B3\u30E2\u30C9\u30AD"
+    exp: 6
+    coinRange: 10
+    dropItemID: 01000000
+  - str: 8
+    def: 12
+    maxHp: 131
+    attackSpd: 1
+    enemyID: 13
+    enemySprite: {fileID: 21300000, guid: 7b50efaef87245343bed236a15edcc45, type: 3}
+    name: "\u3077\u3061\u3051\u3052\u3093"
+    exp: 8
+    coinRange: 10
+    dropItemID: 
+  - str: 11
+    def: 13
+    maxHp: 102
+    attackSpd: 1
+    enemyID: 14
+    enemySprite: {fileID: 21300000, guid: a2afffb29c7a7c147a8553cfb4e0c55e, type: 3}
+    name: "\u305F\u306C\u304D\u3061"
+    exp: 6
+    coinRange: 9
+    dropItemID: 
+  - str: 7
+    def: 12
+    maxHp: 160
+    attackSpd: 1
+    enemyID: 15
+    enemySprite: {fileID: 21300000, guid: b25c7802b60c4f648aa7061d36e309a6, type: 3}
+    name: "\u30DE\u30F3\u30C9\u30E9\u30B4\u30E9"
+    exp: 8
+    coinRange: 11
+    dropItemID: 
+  - str: 12
+    def: 11
+    maxHp: 180
+    attackSpd: 1
+    enemyID: 16
+    enemySprite: {fileID: 21300000, guid: cddb4f03c958b504d8497daafa5e1dca, type: 3}
+    name: "\u30DD\u30EB\u30BF\u30FC"
+    exp: 10
+    coinRange: 12
+    dropItemID: 
+  - str: 11
+    def: 12
+    maxHp: 114
+    attackSpd: 2
+    enemyID: 17
+    enemySprite: {fileID: 21300000, guid: fbaca989dbe7f0a45855fb271f9494d6, type: 3}
+    name: "\u3074\u3087\u3093\u304D\u3061"
+    exp: 9
+    coinRange: 11
+    dropItemID: 01000000
+  - str: 8
+    def: 12
+    maxHp: 111
+    attackSpd: 2
+    enemyID: 18
+    enemySprite: {fileID: 21300000, guid: 8c329411fe677224eaff372bd5ac5812, type: 3}
+    name: "\u3046\u308A\u3093\u3076\u308B"
+    exp: 9
+    coinRange: 9
+    dropItemID: 
+  - str: 10
+    def: 13
+    maxHp: 94
+    attackSpd: 2
+    enemyID: 19
+    enemySprite: {fileID: 21300000, guid: 45a1004800f3923489d32761e450afc3, type: 3}
+    name: "\u30A2\u30AB\u30A4"
+    exp: 9
+    coinRange: 9
+    dropItemID: 
+  - str: 15
+    def: 25
+    maxHp: 250
+    attackSpd: 1
+    enemyID: 20
+    enemySprite: {fileID: 21300000, guid: 2157f99b90ff89a4ea8a57db88296bb7, type: 3}
+    name: "\u30BC\u30E9\u30C1\u30CA\u30B9"
+    exp: 100
+    coinRange: 250
+    dropItemID: 6a000000c900000009000000
+  - str: 18
+    def: 20
+    maxHp: 350
+    attackSpd: 2
+    enemyID: 21
+    enemySprite: {fileID: 21300000, guid: 6b4dfd67283ad88488d0bc4323d824ea, type: 3}
+    name: "\u30A2\u30C3\u30AF\u30B9\u30D3\u30FC\u30AF"
+    exp: 200
+    coinRange: 300
+    dropItemID: c900000069000000ca000000
+  - str: 23
+    def: 25
+    maxHp: 450
+    attackSpd: 0.8
+    enemyID: 22
+    enemySprite: {fileID: 21300000, guid: 48a58016e6e033a4c8956ec0ff9ece31, type: 3}
+    name: "\u30D9\u30A2\u30FC\u3055\u3093"
+    exp: 300
+    coinRange: 350
+    dropItemID: 0b00000068000000c90000000b000000
+  - str: 22
+    def: 30
+    maxHp: 520
+    attackSpd: 1
+    enemyID: 23
+    enemySprite: {fileID: 21300000, guid: 6673c6bc5bf1ce54ba69deeb4970a26f, type: 3}
+    name: "\u30B1\u30E0\u30BF\u30ED\u30B9"
+    exp: 400
+    coinRange: 380
+    dropItemID: c900000068000000ca00000009000000
+  - str: 30
+    def: 35
+    maxHp: 700
+    attackSpd: 1
+    enemyID: 24
+    enemySprite: {fileID: 21300000, guid: d9ff0b8f38d51e742b9ecd87f1b24e39, type: 3}
+    name: "\u72C2\u9AA8"
+    exp: 500
+    coinRange: 1000
+    dropItemID: 68000000690000006a000000ca000000c90000000700000007000000

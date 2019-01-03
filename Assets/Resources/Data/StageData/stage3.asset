@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e856d1fefc8cfa64bb86f8843c72380e, type: 3}
+  m_Name: stage3
+  m_EditorClassIdentifier: 
+  turn:
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  - enemyID: 
+    count: 0
+    bossEnemyID: 
+  stageSprite: {fileID: 21300000, guid: 4215d9614bfdb5342990cfde3026b104, type: 3}
+  stageName: "\u6BD2\u306E\u6D1E\u7A9F"
+  desc: "\u6BD2\u30AC\u30B9\u304C\u3059\u3054\u3044"
+  stageID: 3

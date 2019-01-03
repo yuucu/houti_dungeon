@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b67ae87b15ce0741a11d20ba44fce8e, type: 3}
+  m_Name: consumableItem
+  m_EditorClassIdentifier: 
+  item:
+  - itemID: 1
+    type: 0
+    healPoint: 20
+    str: 0
+    desc: "\u4F53\u529B\u3092 20 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 2
+    type: 0
+    healPoint: 100
+    str: 0
+    desc: "\u4F53\u529B\u3092 100 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 3
+    type: 0
+    healPoint: 500
+    str: 0
+    desc: "\u4F53\u529B\u3092 500 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 4
+    type: 0
+    healPoint: 1000
+    str: 0
+    desc: "\u4F53\u529B\u3092 1000 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 5
+    type: 0
+    healPoint: 5000
+    str: 0
+    desc: "\u4F53\u529B\u3092 5000 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 6
+    type: 0
+    healPoint: 30
+    str: 0
+    desc: "\u4F53\u529B\u3092 30 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 7
+    type: 0
+    healPoint: 50
+    str: 0
+    desc: "\u4F53\u529B\u3092 50 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 8
+    type: 0
+    healPoint: 80
+    str: 0
+    desc: "\u4F53\u529B\u3092 80 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 9
+    type: 0
+    healPoint: -30
+    str: 0
+    desc: ??
+  - itemID: 10
+    type: 0
+    healPoint: 5
+    str: 0
+    desc: "\u4F53\u529B\u3092 5 \u56DE\u5FA9\u3059\u308B\u3002"
+  - itemID: 11
+    type: 0
+    healPoint: 2
+    str: 0
+    desc: "\u4F53\u529B\u3092 2 \u56DE\u5FA9\u3059\u308B"
+  - itemID: 12
+    type: 0
+    healPoint: 120
+    str: 0
+    desc: "\u4F53\u529B\u3092 120 \u56DE\u5FA9\u3059\u308B"

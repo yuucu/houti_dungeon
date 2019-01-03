@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0119d4a4b88304e4890d819b2e974fca, type: 3}
+  m_Name: itemData
+  m_EditorClassIdentifier: 
+  item:
+  - itemID: 0
+    itemSprite: {fileID: 21300000, guid: 4ee47c5097130384180adc9ebee393a1, type: 3}
+    itemName: "\u30B3\u30A4\u30F3"
+    itemDesc: "\u304A\u91D1\u3002\u3059\u3054\u304F\u5927\u4E8B\u3002"
+    dropProbability: 100
+    itemType: 3
+    price: 1
+  - itemID: 101
+    itemSprite: {fileID: 21300006, guid: d7ab1c2fba4250243bbea672608bafb2, type: 3}
+    itemName: "\u77ED\u5263"
+    itemDesc: "\u77ED\u3044\u5263\u3002\u3088\u304F\u5207\u308C\u308B\u3002"
+    dropProbability: 20
+    itemType: 1
+    price: 300
+  - itemID: 1
+    itemSprite: {fileID: 21300012, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u56DE\u5FA9\u85AC(\u5C0F)"
+    itemDesc: "\u5192\u967A\u8005\u5FC5\u9808\u306E\u30A2\u30A4\u30C6\u30E0\u3002\n\u3042\u3093\u307E\u308A\u304A\u3044\u3057\u304F\u306F\u306A\u3044\u3002"
+    dropProbability: 8
+    itemType: 0
+    price: 5
+  - itemID: 201
+    itemSprite: {fileID: 21300096, guid: 4ee47c5097130384180adc9ebee393a1, type: 3}
+    itemName: "\u5F37\u5316\u77F3 +1"
+    itemDesc: "\u88C5\u5099\u5F37\u5316\u306B\u4F7F\u3048\u308B\u77F3\u3002\n\u935B\u51B6\u5C4B\u3055\u3093\u306B\u3082\u3063\u3066\u3044\u3053\u3046\u3002"
+    dropProbability: 35
+    itemType: 2
+    price: 200
+  - itemID: 102
+    itemSprite: {fileID: 21300138, guid: d7ab1c2fba4250243bbea672608bafb2, type: 3}
+    itemName: "\u9769\u306E\u3088\u308D\u3044"
+    itemDesc: "\u5C11\u3057\u306F\u307E\u3057\u306B\u306A\u308B\u304B\u3082\u3002"
+    dropProbability: 20
+    itemType: 1
+    price: 200
+  - itemID: 103
+    itemSprite: {fileID: 21300216, guid: d7ab1c2fba4250243bbea672608bafb2, type: 3}
+    itemName: "\u4F53\u529B\u30CF\u30C1\u30DE\u30AD"
+    itemDesc: "\u4F53\u529B\u6700\u5927\u5024\u304C\u3059\u3053\u3057\u4E0A\u304C\u308B\u30CF\u30C1\u30DE\u30AD\u3002"
+    dropProbability: 20
+    itemType: 1
+    price: 200
+  - itemID: 104
+    itemSprite: {fileID: 21300008, guid: d7ab1c2fba4250243bbea672608bafb2, type: 3}
+    itemName: "\u9577\u5263"
+    itemDesc: "\u9577\u3044\u5263\u3002\u5C11\u3057\u91CD\u3044\u3002"
+    dropProbability: 20
+    itemType: 1
+    price: 700
+  - itemID: 105
+    itemSprite: {fileID: 21300000, guid: d7ab1c2fba4250243bbea672608bafb2, type: 3}
+    itemName: "\u30E1\u30EA\u30B1\u30F3\u30B5\u30C3\u30AF"
+    itemDesc: "\u8EFD\u3044\uFF01\n\u7D20\u65E9\u304F\u653B\u6483\u3067\u304D\u308B\u3002"
+    dropProbability: 17
+    itemType: 1
+    price: 400
+  - itemID: 106
+    itemSprite: {fileID: 21300002, guid: d7ab1c2fba4250243bbea672608bafb2, type: 3}
+    itemName: "\u3072\u3063\u304B\u304D"
+    itemDesc: "\u3053\u308C\u306F\u75DB\u3044\u3002"
+    dropProbability: 16
+    itemType: 1
+    price: 400
+  - itemID: 2
+    itemSprite: {fileID: 21300016, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u56DE\u5FA9\u85AC(\u4E2D)"
+    itemDesc: "\u56DE\u5FA9\u85AC\u3061\u3087\u3063\u3074\u308A\u5897\u91CF\u7248\u3002"
+    dropProbability: 10
+    itemType: 0
+    price: 15
+  - itemID: 3
+    itemSprite: {fileID: 21300022, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u56DE\u5FA9\u85AC(\u5927)"
+    itemDesc: "\u91CF\u306F\u5C11\u306A\u3044\u304C\u52B9\u679C\u306F\u629C\u7FA4\u3002"
+    dropProbability: 10
+    itemType: 0
+    price: 30
+  - itemID: 4
+    itemSprite: {fileID: 21300220, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u56DE\u5FA9\u85AC(\u7279)"
+    itemDesc: "\u767D\u304F\u5909\u8272\u3057\u3066\u3044\u308B\u304C\u52B9\u679C\u306F\u30D4\u30AB\u30A4\u30C1\u3002"
+    dropProbability: 10
+    itemType: 0
+    price: 50
+  - itemID: 5
+    itemSprite: {fileID: 21300046, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u56DE\u5FA9\u4E38"
+    itemDesc: "1\u7C92\u3067\u3082\u3059\u3054\u3044\u52B9\u679C\u3002"
+    dropProbability: 10
+    itemType: 0
+    price: 100
+  - itemID: 6
+    itemSprite: {fileID: 21300042, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u30D7\u30EA\u30F3"
+    itemDesc: "\u3077\u3063\u3007\u3093\u3077\u308A\u3093\u3002"
+    dropProbability: 5
+    itemType: 0
+    price: 30
+  - itemID: 7
+    itemSprite: {fileID: 21300054, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u30DB\u30EF\u30A4\u30C8\u30C1\u30E7\u30B3"
+    itemDesc: "\u3068\u3063\u3066\u3082\u304A\u3044\u3057\u3044\u3002"
+    dropProbability: 7
+    itemType: 0
+    price: 30
+  - itemID: 8
+    itemSprite: {fileID: 21300056, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u30B7\u30E7\u30FC\u30C8\u30B1\u30FC\u30AD"
+    itemDesc: "\u3068\u3063\u3066\u3082\u304A\u3044\u3057\u3044\u3002"
+    dropProbability: 8
+    itemType: 0
+    price: 30
+  - itemID: 9
+    itemSprite: {fileID: 21300294, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u6BD2\u30EA\u30F3\u30B4"
+    itemDesc: "\u98DF\u3079\u3066\u307F\u308B...?"
+    dropProbability: 6
+    itemType: 0
+    price: 30
+  - itemID: 10
+    itemSprite: {fileID: 21300306, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u304A\u8336"
+    itemDesc: "\u4E00\u606F\u3002"
+    dropProbability: 4
+    itemType: 0
+    price: 100
+  - itemID: 11
+    itemSprite: {fileID: 21300172, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u304A\u82B1"
+    itemDesc: "\u98DF\u3079\u308C\u308B...?"
+    dropProbability: 4
+    itemType: 0
+    price: 10
+  - itemID: 12
+    itemSprite: {fileID: 21300074, guid: 4aa93caf77c7de44892a0c4f5d393323, type: 3}
+    itemName: "\u30AA\u30E0\u30E9\u30A4\u30B9"
+    itemDesc: "\u3068\u3063\u3066\u3082\u304A\u3044\u3057\u3044\u3002"
+    dropProbability: 4
+    itemType: 0
+    price: 100
+  - itemID: 202
+    itemSprite: {fileID: 21300098, guid: 4ee47c5097130384180adc9ebee393a1, type: 3}
+    itemName: "\u5F37\u5316\u77F3 +2"
+    itemDesc: "\u88C5\u5099\u5F37\u5316\u306B\u4F7F\u3048\u308B\u77F3\u3002\n\u935B\u51B6\u5C4B\u3055\u3093\u306B\u3082\u3063\u3066\u3044\u3053\u3046\u3002"
+    dropProbability: 30
+    itemType: 2
+    price: 300
+  - itemID: 203
+    itemSprite: {fileID: 21300100, guid: 4ee47c5097130384180adc9ebee393a1, type: 3}
+    itemName: "\u5F37\u5316\u77F3 +3"
+    itemDesc: "\u88C5\u5099\u5F37\u5316\u306B\u4F7F\u3048\u308B\u77F3\u3002\n\u935B\u51B6\u5C4B\u3055\u3093\u306B\u3082\u3063\u3066\u3044\u3053\u3046\u3002"
+    dropProbability: 25
+    itemType: 2
+    price: 400
+  - itemID: 204
+    itemSprite: {fileID: 21300102, guid: 4ee47c5097130384180adc9ebee393a1, type: 3}
+    itemName: "\u5F37\u5316\u77F3 +4"
+    itemDesc: "\u88C5\u5099\u5F37\u5316\u306B\u4F7F\u3048\u308B\u77F3\u3002\n\u935B\u51B6\u5C4B\u3055\u3093\u306B\u3082\u3063\u3066\u3044\u3053\u3046\u3002"
+    dropProbability: 20
+    itemType: 2
+    price: 500
+  - itemID: 205
+    itemSprite: {fileID: 21300104, guid: 4ee47c5097130384180adc9ebee393a1, type: 3}
+    itemName: "\u5F37\u5316\u77F3 +5"
+    itemDesc: "\u88C5\u5099\u5F37\u5316\u306B\u4F7F\u3048\u308B\u77F3\u3002\n\u935B\u51B6\u5C4B\u3055\u3093\u306B\u3082\u3063\u3066\u3044\u3053\u3046\u3002"
+    dropProbability: 23
+    itemType: 2
+    price: 600
+  - itemID: 206
+    itemSprite: {fileID: 21300106, guid: 4ee47c5097130384180adc9ebee393a1, type: 3}
+    itemName: "\u5F37\u5316\u77F3 +6"
+    itemDesc: "\u88C5\u5099\u5F37\u5316\u306B\u4F7F\u3048\u308B\u77F3\u3002\n\u935B\u51B6\u5C4B\u3055\u3093\u306B\u3082\u3063\u3066\u3044\u3053\u3046\u3002"
+    dropProbability: 20
+    itemType: 2
+    price: 800

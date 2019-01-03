@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: a260865927e5527459d2793c2cf0c610
+timeCreated: 1474306205
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pack_0
+    21300002: Pack_1
+    21300004: Pack_2
+    21300006: Pack_3
+    21300008: Pack_4
+    21300010: Pack_5
+    21300012: Pack_6
+    21300014: Pack_7
+    21300016: Pack_8
+    21300018: Pack_9
+    21300020: Pack_10
+    21300022: Pack_11
+    21300024: Pack_12
+    21300026: Pack_13
+    21300028: Pack_14
+    21300030: Pack_15
+    21300032: Pack_16
+    21300034: Pack_17
+    21300036: Pack_18
+    21300038: Pack_19
+    21300040: Pack_20
+    21300042: Pack_21
+    21300044: Pack_22
+    21300046: Pack_23
+    21300048: Pack_24
+    21300050: Pack_25
+    21300052: Pack_26
+    21300054: Pack_27
+    21300056: Pack_28
+    21300058: Pack_29
+    21300060: Pack_30
+    21300062: Pack_31
+    21300064: Pack_32
+    21300066: Pack_33
+    21300068: Pack_34
+    21300070: Pack_35
+    21300072: Pack_36
+    21300074: Pack_37
+    21300076: Pack_38
+    21300078: Pack_39
+    21300080: Pack_40
+    21300082: Pack_41
+    21300084: Pack_42
+    21300086: Pack_43
+    21300088: Pack_44
+    21300090: Pack_45
+    21300092: Pack_46
+    21300094: Pack_47
+    21300096: Pack_48
+    21300098: Pack_49
+    21300100: Pack_50
+    21300102: Pack_51
+    21300104: Pack_52
+    21300106: Pack_53
+    21300108: Pack_54
+    21300110: Pack_55
+    21300112: Pack_56
+    21300114: Pack_57
+    21300116: Pack_58
+    21300118: Pack_59
+    21300120: Pack_60
+    21300122: Pack_61
+    21300124: Pack_62
+    21300126: Pack_63
+    21300128: Pack_64
+    21300130: Pack_65
+    21300132: Pack_66
+    21300134: Pack_67
+    21300136: Pack_68
+    21300138: Pack_69
+    21300140: Pack_70
+    21300142: Pack_71
+    21300144: Pack_72
+    21300146: Pack_73
+    21300148: Pack_74
+    21300150: Pack_75
+    21300152: Pack_76
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pack_0
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 6507
+        width: 401
+        height: 1475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_1
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 6507
+        width: 400
+        height: 1685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_2
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 6507
+        width: 400
+        height: 1475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_3
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 6507
+        width: 399
+        height: 1685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_4
+      rect:
+        serializedVersion: 2
+        x: 5035
+        y: 7626
+        width: 483
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_5
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 7626
+        width: 483
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6527
+        width: 399
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_7
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 6527
+        width: 400
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_8
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 6540
+        width: 244
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_9
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 6946
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_10
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 6946
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_11
+      rect:
+        serializedVersion: 2
+        x: 5035
+        y: 7080
+        width: 483
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_12
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 7080
+        width: 483
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_13
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 6540
+        width: 244
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_14
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 6540
+        width: 244
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_15
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 6565
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_16
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 6565
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_17
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 6582
+        width: 484
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_18
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 6582
+        width: 484
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4473
+        width: 510
+        height: 1527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 5697
+        width: 1319
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_21
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 5688
+        width: 1342
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_22
+      rect:
+        serializedVersion: 2
+        x: 4126
+        y: 5698
+        width: 1313
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_23
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 5059
+        width: 1295
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_24
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 4458
+        width: 1522
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_25
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 5452
+        width: 626
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_26
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 5215
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_27
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 5055
+        width: 286
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_28
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 5211
+        width: 297
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4891
+        width: 1095
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_30
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 4930
+        width: 330
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_31
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 4490
+        width: 311
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_32
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 4490
+        width: 397
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_33
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 4491
+        width: 197
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_34
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 4490
+        width: 262
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_35
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 4491
+        width: 168
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_36
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 4479
+        width: 297
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_37
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 4490
+        width: 285
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_38
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3924
+        width: 249
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_39
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 4210
+        width: 372
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_40
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 3916
+        width: 258
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_41
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 4166
+        width: 206
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_42
+      rect:
+        serializedVersion: 2
+        x: 5069
+        y: 3904
+        width: 258
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_43
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 4155
+        width: 206
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_44
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 4026
+        width: 369
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_45
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 3939
+        width: 372
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_46
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 3927
+        width: 372
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_47
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 3859
+        width: 383
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3092
+        width: 458
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_49
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3092
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_50
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 3092
+        width: 458
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_51
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3092
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_52
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 3092
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_53
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3092
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_54
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 3092
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_55
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3092
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_56
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 3134
+        width: 563
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_57
+      rect:
+        serializedVersion: 2
+        x: 5549
+        y: 3134
+        width: 439
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_58
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2505
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_59
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2505
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_60
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 2692
+        width: 1053
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_61
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 2527
+        width: 563
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_62
+      rect:
+        serializedVersion: 2
+        x: 4945
+        y: 2709
+        width: 392
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_63
+      rect:
+        serializedVersion: 2
+        x: 5409
+        y: 2720
+        width: 178
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_64
+      rect:
+        serializedVersion: 2
+        x: 5707
+        y: 2832
+        width: 56
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_65
+      rect:
+        serializedVersion: 2
+        x: 5648
+        y: 2720
+        width: 179
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2332
+        width: 877
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_67
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2341
+        width: 390
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_68
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2333
+        width: 120
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_69
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 2335
+        width: 355
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_70
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 2451
+        width: 341
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_71
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 2440
+        width: 342
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1961
+        width: 668
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_73
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1935
+        width: 667
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_74
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1974
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_75
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1974
+        width: 459
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pack_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 1535
+        height: 1535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
